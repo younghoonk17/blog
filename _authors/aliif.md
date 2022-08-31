@@ -3,7 +3,7 @@ short_name: aliif
 name: Aliif Arief
 url: https://notes.aliif.space/
 bio: just ordinary boy interest in software development 
-avatar: https://res.cloudinary.com/notee/image/upload/v1640410819/notes/avatar.jpg
+avatar: http://127.0.0.1:4000//jdox/img/author/avatar.jpg
 username: aliifam # general username
 github: aliifam # github username
 twitter: lifrief # twitter username

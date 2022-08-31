@@ -30,7 +30,7 @@ googlewebfonts: family=Archivo:wght@400;700&family=Source+Code+Pro:ital,wght@0,2
 
 # URL settings
 url: "younghoonk17.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/jdox" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+baseurl: "/blog" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local
